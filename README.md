@@ -2,6 +2,9 @@
 This is a project for a lesson from the ODIN project here: https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page
 
 ## Tasks:
+
+>>>>>>>>>>>>>>>>>> Step #7 is next
+
 1. Start the project the same way you began the webpack tutorial project, by creating the ```package.json``` file and setting up Webpack.
 
      Remember, you only need to install and configure the things you need for your project. For example, if you do not plan to have local image files linked in your HTML template, you will not need to install and configure ```html-loader```.
